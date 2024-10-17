@@ -55,8 +55,8 @@ To use this project, ensure you have Node.js installed. Follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   gh repo clone jafan-mulama/Node.js-based-file-crawler-and-downloader.
-   cd project-repo-name
+   gh repo clone jafan-mulama/Nodejs-based-file-crawler-and-downloader
+   cd Nodejs-based-file-crawler-and-downloader
    ```
 
 2. **Install Dependencies**:
