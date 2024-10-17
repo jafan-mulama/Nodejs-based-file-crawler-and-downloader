@@ -65,11 +65,9 @@ To use this project, ensure you have Node.js installed. Follow these steps:
    npm install
    ```
 
-3. **Run the Script**:
-
-   ```bash
-   node crawler.js
-   ```
+3. **Compile and Run the Script**:
+   tsc downloadFiles.ts
+   node downloadFiles.js
 
 4. The files will be downloaded into the `downloads/` folder in your project directory.
 
